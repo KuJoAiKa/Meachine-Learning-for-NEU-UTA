@@ -1,4 +1,4 @@
-# ML-for-NET-UTA
+# ML-for-NEU-UTA
 homework and projects of Machine learning for NEU-UTA courses  
 include:  
 hwk1:KNN  
